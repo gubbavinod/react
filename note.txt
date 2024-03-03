@@ -1,0 +1,7 @@
+NPM - It manages the packages for any project which contains libraries
+bundler(web pack, parcel, veet) - which converts everything into a single file for deployment
+    -D : Dev dependencies
+package.json - configuration of NPM
+package-lock.json - maintains the all the exact versions and maintain the same copy as a local env
+npx - to execute a package we use it
+CDN - these links are not a good idea we can replace it with nodemodules
